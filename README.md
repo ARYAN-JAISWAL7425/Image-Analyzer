@@ -179,4 +179,4 @@ If an invalid or unreadable image is uploaded, the application displays an appro
 
 ## GitHub Repository
 
-[Smart Image Analyzer](https://https://github.com/ARYAN-JAISWAL7425/Image-Analyzer)
+[Smart Image Analyzer](https://github.com/ARYAN-JAISWAL7425/Image-Analyzer)
